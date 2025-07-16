@@ -12,8 +12,10 @@ ASG_D30 displays a list of users from Reqres Fake Data API with details of each 
 - sonner
 - tailwindcss
 
-## Additional Feature
+## Additional Features
+- Toast
 - Log out
+- Guest route
 
 ## GitHub Repository Link:
 
