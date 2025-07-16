@@ -17,4 +17,4 @@ ASG_D30 displays a list of users from Reqres Fake Data API with details of each 
 
 ## GitHub Repository Link:
 
-(https://github.com/hibried/ASG_D30)
+https://github.com/hibried/ASG_D30
